@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kismat.net", "kismat.net\kismat.net.csproj", "{31E67028-4B08-41C0-9667-AE3B5A6B016C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Src", "Src\Src.csproj", "{B4CBE3A6-311B-46AD-980C-F7D28E27438C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31E67028-4B08-41C0-9667-AE3B5A6B016C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31E67028-4B08-41C0-9667-AE3B5A6B016C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31E67028-4B08-41C0-9667-AE3B5A6B016C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31E67028-4B08-41C0-9667-AE3B5A6B016C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4CBE3A6-311B-46AD-980C-F7D28E27438C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4CBE3A6-311B-46AD-980C-F7D28E27438C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4CBE3A6-311B-46AD-980C-F7D28E27438C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4CBE3A6-311B-46AD-980C-F7D28E27438C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
